@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GlobalAIHubPythonCourse
 ![](img/logo.png)
 
 **Course Date:** 1st February to 5th February 2021  
